@@ -1,1 +1,1 @@
-# There are besic Python code :
+# There are basic Python code :
